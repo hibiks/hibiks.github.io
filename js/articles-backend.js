@@ -9,7 +9,7 @@
 })(this, (articlesStorage) => {
     return {
         config: {
-            site_name: "Tivizi's Blog"
+            site_name: "Hibiks's Blog"
         },
         loadByPage: async page => {
             if (!page || page < 1) {
