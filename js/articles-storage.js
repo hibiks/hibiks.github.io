@@ -70,7 +70,7 @@
 
     return {
         config: {
-            namespace: 'tivizi/tivizi',
+            namespace: 'hibiks/hibiks.github.io',
             block_size: 20
         },
         backend: {
