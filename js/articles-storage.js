@@ -70,7 +70,7 @@
 
     return {
         config: {
-            namespace: 'hibiks/hibiks.github.io',
+            namespace: 'hibiks/hibiks',
             block_size: 20
         },
         backend: {
